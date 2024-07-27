@@ -2,8 +2,8 @@
 Software Engineer at [We Are Dev](https://wearedev.xyz)
 Studying at 2 Tangerang Highschool(http://smam2kotatangerang.edumadani.id/)
 ### Social Media
-[Instagram](https://instagram.com/ayamgepreklovers911)
-[Twitter](https://x.com/jordanisadev)
+ [Instagram](https://instagram.com/ayamgepreklovers911) 
+ [Twitter](https://x.com/jordanisadev) 
 ## A little more about me
 ```cpp
 class Jordan {
