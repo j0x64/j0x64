@@ -1,7 +1,7 @@
 ## Hi! Im Jordan 👋
  Software Engineer at [We Are Dev](https://wearedev.xyz) 
  
- Studying at Highschool Level
+ Studying at [W3SCHOOLS](https://w3schools.com)
 ### Social Media
  [Instagram](https://instagram.com/ayamgepreklovers911) 
  [Twitter](https://x.com/jordanisadev) 
